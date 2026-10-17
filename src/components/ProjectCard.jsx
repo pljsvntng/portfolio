@@ -1,19 +1,20 @@
+
 const images = {
   'student-management-portal':
-    '/public/projects/Student-Portal.jpg',
+    '/projects/Student-Portal.jpg',
   'virtual-study-group':
-    '/public/projects/Virtual-Study-Group.jpg',
-  'quiz-flashcard-app': 
-    '/public/projects/PoliCard.jpg',
+    '/projects/Virtual-Study-Group.jpg',
+  'quiz-flashcard-app':
+    '/projects/PoliCard.jpg',
   'healthcare-website':
-    '/public/projects/UB-Health-Center.jpg',
+    '/projects/UB-Health-Center.jpg',
   'photobooth-website':
-    '/public/projects/Photobooth.jpg',
+    '/projects/Photobooth.jpg',
   'java-quiz-game':
-    '/public/projects/Java-Quest.jpg',
+    '/projects/Java-Quest.jpg',
   'bottle-royale':
-    '/public/projects/Bottle-Royale.jpg',
-}
+    '/projects/Bottle-Royale.jpg',
+};
 
 export default function ProjectCard({ project, onOpen }) {
   return (

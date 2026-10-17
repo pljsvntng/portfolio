@@ -45,7 +45,7 @@ export default function Education() {
             <div className="frame-corners border border-line p-2">
               <div className="aspect-[4/3] bg-line/40 overflow-hidden">
                 <img
-                  src="/public/assets/cvsugrounds.jpeg"
+                  src="/assets/cvsugrounds.jpeg"
                   alt="Portrait of Dev Cruz at a workstation"
                   className="h-full w-full object-cover grayscale contrast-125"
                 />

@@ -67,7 +67,7 @@ export default function Hero() {
             <div className="frame-corners border border-line p-2">
               <div className="aspect-[4/5] bg-line/40 overflow-hidden">
                 <img
-                  src="/public/assets/pol.jpg"
+                  src="/assets/pol.jpg"
                   alt="Portrait of Pol Jesvin Tanag at a workstation"
                   className="h-full w-full object-cover grayscale contrast-125"
                   loading="eager"
